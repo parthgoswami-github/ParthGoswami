@@ -20,7 +20,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parthgoswami-github&theme=dark)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on [#UnconventionalContributors](https://www.parthgoswami.com/unconventionalcontributors)
+- 🔭 I’m currently working on [#UnconventionalContributors](https://www.parthgoswami.com/categories/unconventionalcontributors/)
 
 ![](https://komarev.com/ghpvc/?username=parthgoswami-github&color=lightgrey)
 ![](https://visitor-badge.glitch.me/badge?page_id=parthgoswami-github.parthgoswami-github)
