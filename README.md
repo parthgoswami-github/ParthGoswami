@@ -13,3 +13,14 @@
 - [How to get started on AWS](https://www.parthgoswami.com/aws_for_beginners/)
 - [Managing Windows Server from Red Hat Server using Ansible on AWS EC2](https://www.parthgoswami.com/ansible_sd/)
 <!-- BLOG-POST-LIST:END -->
+
+
+
+[![ParthGoswami's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthgoswami-github_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parthgoswami-github&theme=dark)](https://git.io/streak-stats)
+
+- 🔭 I’m currently working on [#UnconventionalContributors](https://www.parthgoswami.com/unconventionalcontributors)
+
+![](https://komarev.com/ghpvc/?username=parthgoswami-github&color=lightgrey)
+![](https://visitor-badge.glitch.me/badge?page_id=parthgoswami-github.parthgoswami-github)
