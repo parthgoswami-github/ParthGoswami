@@ -16,7 +16,7 @@
 
 
 
-[![ParthGoswami's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthgoswami-github_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ParthGoswami's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthgoswami-github&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parthgoswami-github&theme=dark)](https://git.io/streak-stats)
 
