@@ -3,7 +3,7 @@
 Want to know more about me? Check out [my blogsite](https://parthgoswami.com/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-goswami/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter.com/parthtwts)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/parthtwts)
 [![Email](https://img.shields.io/badge/Email-f54257?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthifs.g@gmail.com)
 
 
